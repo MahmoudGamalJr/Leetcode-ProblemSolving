@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode Solutions
 Here!!!some of my solutions on Leetcode online judge with the statement of the problem.                                      
 
 [Leetcode](https://leetcode.com/problemset/all/)                            
