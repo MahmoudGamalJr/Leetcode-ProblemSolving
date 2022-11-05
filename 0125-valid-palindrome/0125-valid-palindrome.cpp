@@ -1,18 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans = "";
-        for(int i = 0; i < (int)s.size();i++)
+        deque <char> dq;
+        for(auto ch : s)
         {
-            s[i] = tolower(s[i]);
-            if(s[i]>='a'&&s[i]<='z'||isdigit(s[i]))
+            ch = tolower(ch);
+            if(ch>='a'&&ch<='z'||isdigit(ch))
             {
-                ans +=s[i];
+                    dq.push_back(ch);
             }
         }
-        for(int i = 0; i < (int)ans.size()/2;i++)
+        while(dq.size() > 1)
         {
-            if(ans[i]!=ans[(int)ans.size()-1-i])
+            char first = dq.front(), last = dq.back();
+            dq.pop_back();dq.pop_front();
+            if(first != last)
             {
                 return false;
             }
