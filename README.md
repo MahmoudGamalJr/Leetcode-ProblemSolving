@@ -1,7 +1,7 @@
 # Leetcode
 Here!!!some of my solutions on Leetcode online judge with the statement of the problem.                                      
 
-- [Leetcode Site](https://leetcode.com/problemset/all/)                            
+[Leetcode](https://leetcode.com/problemset/all/)                            
 - [My Leetcode Profile](https://leetcode.com/Mahmoud_Gamal_/)               
 
 
