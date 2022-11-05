@@ -1,6 +1,7 @@
 # Leetcode
-Here!!!some of my solutions on Leetcode online judge with the statement of the problem.
-[Leetcode Profile](https://leetcode.com/Mahmoud_Gamal_/)               
+Here!!!some of my solutions on Leetcode online judge with the statement of the problem.                                      
+
+[- My Leetcode Profile](https://leetcode.com/Mahmoud_Gamal_/)               
 
 
 
